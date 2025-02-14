@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hola_mundo</string>
+    <string name="TV_name">Welcome</string>
+    <string name="et_msm_name">Ingresa tu nombre</string>
+    <string name="et_msm_age">Edad</string>
+    <string name="TV_age">Ingresa tu edad</string>
+    <string name="btn_calculate">Evaluar</string>
+</resources>
